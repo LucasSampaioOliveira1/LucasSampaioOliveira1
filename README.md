@@ -12,11 +12,12 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="42" width="42" <img src="https://img.icons8.com/color/344/react-native.png"/>
-  <img align="center" alt="Lucas-Sass" height="42" width="42" <img src="https://img.icons8.com/color/344/sass.png"/>
-  <img align="center" alt="Lucas-Bootstrap" height="42" width="42" <img src="https://img.icons8.com/color/344/bootstrap.png"/>
-  <img align="center" alt="Lucas-Figma" height="42" width="42" <img src="https://img.icons8.com/color/344/figma--v1.png"/>
-  <img align="center" alt="Lucas-Java" height="42" width="42" <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="Lucas-Ts" height="30" width="30" <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png?f=webp&w=256"/>
+  <img align="center" alt="Lucas-React" height="30" width="30" <img src="https://img.icons8.com/color/344/react-native.png"/>
+  <img align="center" alt="Lucas-Sass" height="30" width="30" <img src="https://img.icons8.com/color/344/sass.png"/>
+  <img align="center" alt="Lucas-Bootstrap" height="30" width="30" <img src="https://img.icons8.com/color/344/bootstrap.png"/>
+  <img align="center" alt="Lucas-Figma" height="30" width="30" <img src="https://img.icons8.com/color/344/figma--v1.png"/>
+  <img align="center" alt="Lucas-Java" height="30" width="30" <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
  
  <br>
