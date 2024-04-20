@@ -2,7 +2,7 @@
 
 ### Hi, I'm Lucas Sampaio, in love with FrontEnd
 - :man_student: I'm currently studying to be a good Front End in the future
-- :books: I'm currently learning React.js
+- :books: I'm currently learning Next.js
 - :cityscape: I live in Serra-ES
 - :boy: I'm 25 years old
 
