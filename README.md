@@ -17,7 +17,6 @@
   <img align="center" alt="Lucas-Nextjs" width="30" height="30" src="https://img.icons8.com/nolan/64/nextjs.png"/>
   <img align="center" alt="Lucas-Ts" height="30" width="30" <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png?f=webp&w=256"/>
   <img align="center" alt="Lucas-Tailwindcss" width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png"/>
-<!--   <img align="center" alt="Lucas-shadcn-ui" height="30" width="30" <img src="http://www.w3.org/2000/svg"/> -->
 </div>
  
  <br>
